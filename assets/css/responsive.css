@@ -10,6 +10,10 @@
     background-color: rgb(36, 33, 102);
     padding-bottom: 30px;
   }
+  .participate-section .single-card {
+    display: block;
+    min-height: auto;
+  }
 }
 @media only screen and (max-width: 767px) {
   .section-block {
@@ -64,5 +68,10 @@
   }
   .code-wrapper {
     padding: 30px 15px;
+  }
+  .participate-section .single-card {
+    display: block;
+    padding: 30px 15px;
+    min-height: auto;
   }
 }
