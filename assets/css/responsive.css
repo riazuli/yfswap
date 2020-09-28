@@ -1,19 +1,65 @@
-/* Medium Layout: 1280px. */
 @media only screen and (min-width: 1900px) {
 }
-
-
-/* Medium Layout: 1280px. */
-@media only screen and (min-width: 992px) and (max-width: 1200px) {
-
+@media only screen and (max-width: 1200px) and (min-width: 992px) {
 }
-
-/* Tablet Layout: 768px. */
-@media only screen and (min-width: 768px) and (max-width: 991px) {
-
+@media only screen and (max-width: 991px) and (min-width: 768px) {
+  .hero-content h1 {
+    font-size: 80px;
+  }
+  header .navbar .navbar-collapse {
+    background-color: rgb(36, 33, 102);
+    padding-bottom: 30px;
+  }
 }
-
-/* Mobile Layout: 320px. */
 @media only screen and (max-width: 767px) {
-
+  .section-block {
+    padding: 50px 0px;
+  }
+  .hero-section {
+    padding: 150px 0px 80px;
+  }
+  .hero-content h1 {
+    font-size: 50px;
+  }
+  .hero-content p {
+    font-size: 16px;
+  }
+  .single-count span:first-child {
+    font-size: 33px;
+  }
+  .single-count {
+    padding: 20px 5px;
+    margin-bottom: 20px;
+  }
+  header .navbar .navbar-collapse {
+    background-color: rgb(36, 33, 102);
+    padding-bottom: 30px;
+  }
+  .conten-block h2 {
+    font-size: 32px;
+    text-align: center;
+  }
+  .number p {
+    font-size: 50px;
+  }
+  .title .wrap img {
+    max-width: 60px;
+  }
+  .number {
+    padding-left: 70px;
+    min-height: 80px;
+  }
+  .title .wrap {
+    padding-left: 90px;
+    min-height: 80px;
+  }
+  .coming-soon {
+    font-size: 20px;
+    padding: 20px 10px;
+    max-width: 100%;
+    width: 100%;
+  }
+  .conten-block {
+    margin-bottom: 20px;
+  }
 }
