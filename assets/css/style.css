@@ -508,3 +508,10 @@ footer .socials-icon a {
   color: #eaa8c4;
   margin-top: 10px;
 }
+
+.participate-section.section-block {
+  padding: 180px 0px 150px;
+}
+.participate-section .single-card {
+  box-shadow: 10px 30px 30px rgba(201, 31, 102, 0.8);
+}
