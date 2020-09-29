@@ -4,7 +4,7 @@
   jQuery(document).ready(function ($) {
     // Smooth Scroll
     var scroll = new SmoothScroll('a[href*="#"]', {
-      offset: 135,
+      offset: 122,
     });
     //navbar Collapse
     $(".navbar-collapse a").click(function () {
