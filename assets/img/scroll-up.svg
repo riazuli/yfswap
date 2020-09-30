@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="134" height="24" viewBox="0 0 134 24">
+  <g id="Scroll_Down" data-name="Scroll Down" transform="translate(0 0)">
+    <text id="Scroll_to_explore" data-name="Scroll to explore" transform="translate(29 16)" fill="#21dad7" font-size="16" font-family="Helvetica"><tspan x="0" y="0">Up to da’moon</tspan></text>
+    <g id="Scroll_Icon" data-name="Scroll Icon" transform="translate(24 24) rotate(-180)">
+      <path id="Combined_Shape" data-name="Combined Shape" d="M0,12A12,12,0,1,1,12,24,12.013,12.013,0,0,1,0,12Zm1.846,0A10.154,10.154,0,1,0,12,1.846,10.165,10.165,0,0,0,1.846,12Zm9.519,5.632-.015-.015L6.735,13.037A.923.923,0,0,1,8.02,11.712l.015.015,3.042,3.019V7.039a.923.923,0,0,1,1.846-.019v7.725l3.042-3.018a.923.923,0,0,1,1.315,1.3l-.014.015L12.65,17.617a.924.924,0,0,1-1.285.015Z" fill="#21dad7"/>
+    </g>
+  </g>
+</svg>
