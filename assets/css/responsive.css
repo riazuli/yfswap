@@ -74,4 +74,19 @@
     padding: 30px 15px;
     min-height: auto;
   }
+  .single-card.smaller {
+    margin-bottom: 30px;
+  }
+
+  .yfipool-section .content-block {
+    padding-bottom: 10px;
+  }
+
+  .record-box {
+    padding: 30px 20px 20px;
+  }
+
+  .single-record {
+    margin-bottom: 30px;
+  }
 }
